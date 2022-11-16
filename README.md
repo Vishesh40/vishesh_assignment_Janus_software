@@ -37,3 +37,5 @@ This project was built using the Covalent API
 3. Start a terminal on the project folder
 4. Run `npm start` to ensure everything is working well
 
+Here are the screenshots of the interface 
+![alt text](https://drive.google.com/file/d/10IPyrcCU2LDwaObsxlAplI4tWBiTsrLI/view?usp=share_link)
