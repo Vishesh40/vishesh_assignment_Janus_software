@@ -38,4 +38,7 @@ This project was built using the Covalent API
 4. Run `npm start` to ensure everything is working well
 
 Here are the screenshots of the interface 
-https://drive.google.com/file/d/10IPyrcCU2LDwaObsxlAplI4tWBiTsrLI/view?usp=share_link
+![Screenshot #1](https://user-images.githubusercontent.com/74168819/202088886-6c6c76b2-aee3-4ccf-b096-043de91ffb38.jpg)
+![Screenshot #2](https://user-images.githubusercontent.com/74168819/202088896-9fee98c3-135c-4f15-aeeb-0913b2b85db8.jpg)
+![Screenshot #3](https://user-images.githubusercontent.com/74168819/202088899-0d442c3b-ce36-4986-9942-efd60d620446.jpg)
+
